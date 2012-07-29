@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Virtualioji klaviat\u016Bra i\u0161\u0161oka kiekviename puslapyje, kuriame yra \u012Fvesties lauk\u0173, ir ja galite \u012Fvesti tekst\u0105 vietin\u0117s kalbos ra\u0161menimis."
+   },
+   "vkbd_name": {
+      "message": "Virtuali klaviat\u016Bra (\u201EGoogle\u201C)"
+   },
+   "vkbd_options_title": {
+      "message": "Virtualiosios klaviat\u016Bros pl\u0117tinio parinktys"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Kair\u0117je pus\u0117je pasirinkite klaviat\u016Bros i\u0161d\u0117stym\u0105 (-us):"
+   },
+   "vkbd_save_options": {
+      "message": "I\u0161saugoti"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Rodyti / sl\u0117pti klaviat\u016Br\u0105"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Virtual Keyboard, giri\u015F alan\u0131 olan her sayfada g\u00F6r\u00FCnt\u00FClenir ve yerel alfabede yazabilmenizi sa\u011Flar."
+   },
+   "vkbd_name": {
+      "message": "Sanal Klavye (Google'dan)"
+   },
+   "vkbd_options_title": {
+      "message": "Virtual Keyboard Uzant\u0131s\u0131 Se\u00E7enekleri"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Soldan klavye yerle\u015Fimini se\u00E7in:"
+   },
+   "vkbd_save_options": {
+      "message": "Kaydet"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Klavyeyi G\u00F6ster/Gizle"
+   }
+}

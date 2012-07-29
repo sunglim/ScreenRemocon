@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Nagpa-pop up ang Virtual Keyboard sa bawat pahina na may mga input field at hinahayaan kang mag-type sa native script."
+   },
+   "vkbd_name": {
+      "message": "Virtual Keyboard (mula sa Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Mga Pagpipilian ng Extension na Virtual Keyboard"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Piliin ang (mga) layout ng keyboard mula sa kaliwa:"
+   },
+   "vkbd_save_options": {
+      "message": "I-save"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Ipakita/Itago ang Keyboard"
+   }
+}

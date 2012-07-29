@@ -1,0 +1,20 @@
+﻿{
+	"manifest_version": 2,
+	"content_scripts": [ {
+		"css": [ "common.css" ],	
+		"js": [ "replay.js", "jquery.min.js" ],
+		"matches": [ "http://*/*", "https://*/*" ],
+		"run_at": "document_end"
+	} ],
+	"icons": {
+		"18": "fly.png",
+		"24": "fly.png",
+		"48": "fly.png"
+	},
+	"web_accessible_resources": [
+		"icon2.png"
+	],
+	"description": "Virtual Remocon",
+	"name": "Virtual Remocon",
+	"version": "0.1"
+}

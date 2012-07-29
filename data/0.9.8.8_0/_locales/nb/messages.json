@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Det virtuelle tastaturet dukker opp p\u00E5 sider med inndatafelter slik at du kan skrive p\u00E5 eget spr\u00E5k."
+   },
+   "vkbd_name": {
+      "message": "Virtuelt tastatur (fra Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Alternativer for utvidelsen Virtuelt tastatur"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Velg tastaturoppsett fra venstre:"
+   },
+   "vkbd_save_options": {
+      "message": "Lagre"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Vis/skjul tastatur"
+   }
+}

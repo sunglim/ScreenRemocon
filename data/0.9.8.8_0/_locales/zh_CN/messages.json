@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "\u6BCF\u4E2A\u5305\u542B\u8F93\u5165\u5B57\u6BB5\u7684\u7F51\u9875\u4E0A\u90FD\u4F1A\u5F39\u51FA\u865A\u62DF\u952E\u76D8\uFF0C\u4EE5\u4FBF\u60A8\u901A\u8FC7\u672C\u673A\u811A\u672C\u952E\u5165\u5185\u5BB9\u3002"
+   },
+   "vkbd_name": {
+      "message": "\u865A\u62DF\u952E\u76D8\uFF08\u7531 Google \u63D0\u4F9B\uFF09"
+   },
+   "vkbd_options_title": {
+      "message": "\u865A\u62DF\u952E\u76D8\u6269\u5C55\u7A0B\u5E8F\u9009\u9879"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "\u4ECE\u5DE6\u4FA7\u9009\u53D6\u952E\u76D8\u5E03\u5C40\uFF1A"
+   },
+   "vkbd_save_options": {
+      "message": "\u4FDD\u5B58"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "\u663E\u793A/\u9690\u85CF\u952E\u76D8"
+   }
+}

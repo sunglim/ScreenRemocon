@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "L'extension Clavier virtuel s'affiche sur chaque page contenant des champs de saisie et vous permet d'entrer du texte en script natif."
+   },
+   "vkbd_name": {
+      "message": "Clavier virtuel (par Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Options de l'extension Clavier virtuel"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "S\u00E9lectionnez une ou plusieurs dispositions de clavier \u00E0 gauche\u00A0:"
+   },
+   "vkbd_save_options": {
+      "message": "Enregistrer"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Afficher/Masquer le clavier"
+   }
+}

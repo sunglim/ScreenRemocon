@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Virtualna tipkovnica pojavljuje se na svakoj stranici s poljima za unos i omogu\u0107uje vam upisivanje u izvornu skriptu."
+   },
+   "vkbd_name": {
+      "message": "Virtualna tipkovnica (od Googlea)"
+   },
+   "vkbd_options_title": {
+      "message": "Opcije pro\u0161irenja virtualne tipkovnice"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Odaberite izgled tipkovnice s lijeve strane:"
+   },
+   "vkbd_save_options": {
+      "message": "Spremi"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Prika\u017Ei/sakrij tipkovnicu"
+   }
+}

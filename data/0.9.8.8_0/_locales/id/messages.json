@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Keyboard Virtual muncul pada setiap laman dengan bidang masukan dan memungkinkan Anda mengetikkan skrip asli."
+   },
+   "vkbd_name": {
+      "message": "Virtual Keyboard (oleh Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Opsi Ekstensi Keyboard Virtual"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Tentukan tata letak keyboard dari sebelah kiri:"
+   },
+   "vkbd_save_options": {
+      "message": "Simpan"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Tunjukkan/Sembunyikan Keyboard"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Virtuaalinen n\u00E4pp\u00E4imist\u00F6 tulee n\u00E4kyviin jokaisella sy\u00F6tekentti\u00E4 sis\u00E4lt\u00E4v\u00E4ll\u00E4 sivulla, ja sen avulla voit kirjoittaa omilla aakkosillasi."
+   },
+   "vkbd_name": {
+      "message": "Virtuaalinen n\u00E4pp\u00E4imist\u00F6 (Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Virtuaalinen n\u00E4pp\u00E4imist\u00F6 -laajennuksen asetukset"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Valitse n\u00E4pp\u00E4imist\u00F6n ulkoasu(t) vasemmalta:"
+   },
+   "vkbd_save_options": {
+      "message": "Tallenna"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "N\u00E4yt\u00E4/piilota n\u00E4pp\u00E4imist\u00F6"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "L'extensi\u00F3 Virtual Keyboard apareix a cada p\u00E0gina que tingui camps d'entrada, i us permet escriure en script nadiu."
+   },
+   "vkbd_name": {
+      "message": "Teclat virtual (de Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Opcions de l'extensi\u00F3 Virtual Keyboard"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Seleccioneu els dissenys del teclat que hi ha a l'esquerra:"
+   },
+   "vkbd_save_options": {
+      "message": "Desa"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Mostra/oculta el teclat"
+   }
+}

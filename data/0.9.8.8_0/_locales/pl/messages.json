@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Rozszerzenie Virtual Keyboard uaktywnia si\u0119 na ka\u017Cdej stronie, na kt\u00F3rej wyst\u0119puj\u0105 pola do wprowadzania danych, umo\u017Cliwiaj\u0105c wpisanie informacji przy u\u017Cyciu liter alfabetu danego j\u0119zyka."
+   },
+   "vkbd_name": {
+      "message": "Klawiatura wirtualna (od Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Opcje rozszerzenia Virtual Keyboard"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Wybierz uk\u0142ad klawiatury po lewej stronie:"
+   },
+   "vkbd_save_options": {
+      "message": "Zapisz"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Poka\u017C/ukryj klawiatur\u0119"
+   }
+}

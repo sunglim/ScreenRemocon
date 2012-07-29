@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "El teclado virtual aparece en todas las p\u00E1ginas con campos de entrada y te permite escribir en la secuencia de comandos nativa."
+   },
+   "vkbd_name": {
+      "message": "Tablero virtual (de Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Opciones de extensi\u00F3n de teclado virtual"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Elige el/los dise\u00F1o/s del teclado de la izquierda:"
+   },
+   "vkbd_save_options": {
+      "message": "Guardar"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Mostrar/ocultar teclado"
+   }
+}

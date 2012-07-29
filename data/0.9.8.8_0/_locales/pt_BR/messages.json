@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "O teclado virtual \u00E9 exibido em todas as p\u00E1ginas com campos de entrada e permite digitar em script nativo."
+   },
+   "vkbd_name": {
+      "message": "Teclado virtual (do Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Op\u00E7\u00F5es de extens\u00E3o do teclado virtual"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Escolha o layout do teclado a partir da esquerda:"
+   },
+   "vkbd_save_options": {
+      "message": "Salvar"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Mostrar/ocultar teclado"
+   }
+}

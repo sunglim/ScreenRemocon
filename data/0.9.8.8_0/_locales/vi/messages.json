@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "B\u00E0n ph\u00EDm \u1EA2o b\u1EADt l\u00EAn \u1EDF m\u1ED7i trang c\u00F3 c\u00E1c tr\u01B0\u1EDDng nh\u1EADp v\u00E0 cho ph\u00E9p b\u1EA1n nh\u1EADp ch\u1EEF b\u1EA3n \u0111\u1ECBa v\u00E0o."
+   },
+   "vkbd_name": {
+      "message": "B\u1EA3n ph\u00EDm \u1EA2o (c\u1EE7a Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Tu\u1EF3 ch\u1ECDn Ti\u1EC7n \u00EDch m\u1EDF r\u1ED9ng B\u00E0n ph\u00EDm \u1EA2o"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Ch\u1ECDn (c\u00E1c) b\u1ED1 c\u1EE5c b\u00E0n ph\u00EDm \u1EA3o t\u1EEB b\u00EAn tr\u00E1i:"
+   },
+   "vkbd_save_options": {
+      "message": "L\u01B0u"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Hi\u1EC3n th\u1ECB/\u1EA8n B\u00E0n ph\u00EDm"
+   }
+}

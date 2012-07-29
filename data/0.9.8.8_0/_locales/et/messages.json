@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Virtuaalne klaviatuur ilmub igale lehele koos sisendv\u00E4ljadega ning laseb teil tippida omakeelses t\u00E4hestikus."
+   },
+   "vkbd_name": {
+      "message": "Virtuaalne klaviatuur (Google'ilt)"
+   },
+   "vkbd_options_title": {
+      "message": "Virtuaalse klaviatuuri laienduse suvandid"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Valige klaviatuuri paigutuse(ed) vasakult:"
+   },
+   "vkbd_save_options": {
+      "message": "Salvesta"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Kuva/peida klaviatuur"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "O Teclado virtual \u00E9 apresentado em cada p\u00E1gina com campos de entrada e permite-lhe escrever em diferentes alfabetos."
+   },
+   "vkbd_name": {
+      "message": "Teclado virtual (do Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Op\u00E7\u00F5es da extens\u00E3o Teclado virtual"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Seleccione esquemas de teclado a partir da esquerda:"
+   },
+   "vkbd_save_options": {
+      "message": "Guardar"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Mostrar/ocultar teclado"
+   }
+}

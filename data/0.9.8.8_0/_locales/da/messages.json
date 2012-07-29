@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Virtual Keyboard dukker op p\u00E5 alle sider med indtastningsfelter og giver dig mulighed for at skrive p\u00E5 dit modersm\u00E5l."
+   },
+   "vkbd_name": {
+      "message": "Virtual Keyboard (fra Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Valgmuligheder for udvidelsen Virtual Keyboard"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "V\u00E6lg et eller flere tastaturlayout til venstre:"
+   },
+   "vkbd_save_options": {
+      "message": "Gem"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Vis/skjul tastatur"
+   }
+}

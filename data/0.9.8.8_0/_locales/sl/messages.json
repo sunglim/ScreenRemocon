@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Navidezna tipkovnica se pojavi na vsaki strani z vnosnimi polji in omogo\u010Da pisanje v \u017Eeleni abecedi."
+   },
+   "vkbd_name": {
+      "message": "Navidezna tipkovnica (uporablja tehnologijo Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Mo\u017Enosti raz\u0161iritev za navidezno tipkovnico"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Na levi strani izberite postavitve tipkovnice:"
+   },
+   "vkbd_save_options": {
+      "message": "Shrani"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Poka\u017Ei/skrij tipkovnico"
+   }
+}

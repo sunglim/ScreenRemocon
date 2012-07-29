@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Het virtuele toetsenbord wordt weergegeven op elke pagina met invoervelden en hiermee kunt u in de juiste tekenset typen."
+   },
+   "vkbd_name": {
+      "message": "Virtueel zoekwoord (van Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Opties voor de extensie Virtueel toetsenbord"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Selecteer toetsenbordindelingen aan de linkerkant:"
+   },
+   "vkbd_save_options": {
+      "message": "Opslaan"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Toetsenbord weergeven/verbergen"
+   }
+}

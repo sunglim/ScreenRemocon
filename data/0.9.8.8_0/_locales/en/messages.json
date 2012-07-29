@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Virtual Keyboard pops up on every page with input fields and lets you type in native script."
+   },
+   "vkbd_name": {
+      "message": "Virtual Keyboard (by Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Virtual Keyboard Extension Options"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Pick keyboard layout(s) from the left:"
+   },
+   "vkbd_save_options": {
+      "message": "Save"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Show/Hide Keyboard"
+   }
+}

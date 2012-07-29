@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Tastatura virtual\u0103 apare \u00EEn paginile cu c\u00E2mpuri de introducere \u015Fi v\u0103 permite s\u0103 introduce\u0163i text \u00EEn alfabetul dvs."
+   },
+   "vkbd_name": {
+      "message": "Tastatura virtual\u0103 (de la Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Op\u0163iunile extensiei Tastatur\u0103 virtual\u0103"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "Alege\u0163i aspectul tastaturii din partea st\u00E2ng\u0103:"
+   },
+   "vkbd_save_options": {
+      "message": "Salva\u0163i"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Afi\u015Fa\u0163i/ascunde\u0163i tastatura"
+   }
+}

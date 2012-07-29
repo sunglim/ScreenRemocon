@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Virtual Keyboard dyker upp p\u00E5 alla sidor som har inmatningsf\u00E4lt s\u00E5 att du kan skriva eget skript."
+   },
+   "vkbd_name": {
+      "message": "Virtual Keyboard (fr\u00E5n Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Alternativ f\u00F6r till\u00E4gget Virtual Keyboard"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "V\u00E4lj layout f\u00F6r tangentbordet fr\u00E5n v\u00E4nster:"
+   },
+   "vkbd_save_options": {
+      "message": "Spara"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Visa/d\u00F6lj tangentbord"
+   }
+}

@@ -1,0 +1,20 @@
+{
+   "vkbd_description": {
+      "message": "Virtu\u00E1ln\u00ED kl\u00E1vesnice se zobraz\u00ED na ka\u017Ed\u00E9 str\u00E1nce obsahuj\u00EDc\u00ED pole pro zad\u00E1v\u00E1n\u00ED a umo\u017En\u00ED zadat \u00FAdaje v p\u0159\u00EDslu\u0161n\u00E9m p\u00EDsmu."
+   },
+   "vkbd_name": {
+      "message": "Virtu\u00E1ln\u00ED kl\u00E1vesnice (od Google)"
+   },
+   "vkbd_options_title": {
+      "message": "Mo\u017Enosti roz\u0161\u00ED\u0159en\u00ED Virtu\u00E1ln\u00ED kl\u00E1vesnice"
+   },
+   "vkbd_pick_keyboard_layout": {
+      "message": "V lev\u00E9 \u010D\u00E1sti str\u00E1nky vyberte rozlo\u017Een\u00ED kl\u00E1vesnice:"
+   },
+   "vkbd_save_options": {
+      "message": "Ulo\u017Eit"
+   },
+   "vkbd_show_hide_keyboard": {
+      "message": "Zobrazit \u010Di skr\u00FDt kl\u00E1vesnici"
+   }
+}
